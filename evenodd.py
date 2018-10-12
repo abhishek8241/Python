@@ -6,3 +6,4 @@ elif(a%2==0):
     print(a,"is even")
 else:
     print(a,"is odd")
+print("This is the end of the program")
